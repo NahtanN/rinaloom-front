@@ -8,4 +8,4 @@
 
 <!-- Lottie animation container -->
 <!--<div bind:this={lootieContainer} class="mx-auto h-64 w-full max-w-md md:h-80"></div>-->
-<DotLottieSvelte src="src/lib/animations/baby.lottie" loop autoplay />
+<DotLottieSvelte src="/animations/baby.lottie" loop autoplay />
